@@ -1,0 +1,89 @@
+{
+    "users": [
+      {
+        "activeUser": "david",
+        "activeEmail": "david@me.com",
+        "activePassword": "me",
+        "id": 4
+      },
+      {
+        "activeUser": "Frank",
+        "activeEmail": "frank@me.com",
+        "activePassword": "me",
+        "id": 5
+      }
+    ],
+    "days": [
+      {
+        "moodId": 1,
+        "description": "STYLING",
+        "date": "09/26/2018 at 18:38 PM",
+        "userId": 4,
+        "id": 19
+      },
+      {
+        "moodId": 1,
+        "description": "presenting",
+        "date": "10/02/2018 at 11:18 AM",
+        "userId": 4,
+        "id": 25
+      },
+      {
+        "moodId": 2,
+        "description": "Late night login fix",
+        "date": "12/02/2018 at 1:19 AM",
+        "userId": 4,
+        "id": 26
+      },
+      {
+        "moodId": 1,
+        "description": "Sushi goodness",
+        "date": "12/02/2018 at 17:14 PM",
+        "userId": 6,
+        "id": 27
+      },
+      {
+        "moodId": 3,
+        "description": "Not enough wasabi",
+        "date": "12/02/2018 at 17:15 PM",
+        "userId": 6,
+        "id": 28
+      },
+      {
+        "moodId": 1,
+        "description": "LOGIN STYLING",
+        "date": "12/02/2018 at 17:15 PM",
+        "userId": 4,
+        "id": 29
+      },
+      {
+        "moodId": 4,
+        "description": "",
+        "date": "12/03/2018 at 20:01 PM",
+        "userId": 4,
+        "id": 30
+      }
+    ],
+    "moods": [
+      {
+        "rating": "/static/media/party.cd534470.gif",
+        "id": 1,
+        "desc": "Rad"
+      },
+      {
+        "rating": "/static/media/sloth.38784354.gif",
+        "id": 2,
+        "desc": "Tired"
+      },
+      {
+        "rating": "/static/media/sad.e49477f7.gif",
+        "id": 3,
+        "desc": "Sad"
+      },
+      {
+        "rating": "/static/media/stress.078d84f6.gif",
+        "id": 4,
+        "desc": "Stressed"
+      }
+    ]
+  }
